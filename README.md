@@ -1,42 +1,34 @@
-# Nuxt 3 Minimal Starter
+# <div align="center">Shader < Cut</div>
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+<div align="center"/>
+<img width="400" alt="main-logo" src="./assets/cover.jpeg" />
+</div>
 
-## Setup
+<!-- # <div align="center">[Live Demo](https://pavlienko.github.io/r3f-simple-grass-shader)</div> -->
 
-Make sure to install the dependencies:
+## Description
+...
 
-```bash
-# yarn
-yarn install
+## About project
 
-# npm
-npm install
+...
 
-# pnpm
-pnpm install --shamefully-hoist
+## Project setup
+
+```js
+  npm install
+  npm start
 ```
 
-## Development Server
+## Future scope
 
-Start the development server on http://localhost:3000
+...
 
-```bash
-npm run dev
-```
+---
 
-## Production
+<div align="center">
 
-Build the application for production:
+#### [pavlienko.com](https://pavlienko.com)
+![image info](./src/assets/pface64.png)
 
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+</div>

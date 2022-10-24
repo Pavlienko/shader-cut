@@ -1,0 +1,1 @@
+export { default } from "file:///Users/pavlienko/pavlienko/shader-cut/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
